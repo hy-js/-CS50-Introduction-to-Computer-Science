@@ -5,9 +5,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | Assignment |  | | Scratch |
 
-### Lecture 1: C Programming Language
-| Category | Name | Language | Grade |
-| ------------- | ------------- | ------------- | ------------- |
+
 
 
 
